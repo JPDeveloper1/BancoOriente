@@ -1,0 +1,15 @@
+C:\Users\Astridc\source\repos\CAJERO\CAJERO\bin\Debug\CAJERO.exe.config
+C:\Users\Astridc\source\repos\CAJERO\CAJERO\bin\Debug\CAJERO.exe
+C:\Users\Astridc\source\repos\CAJERO\CAJERO\bin\Debug\CAJERO.pdb
+C:\Users\Astridc\source\repos\CAJERO\CAJERO\obj\Debug\CAJERO.csproj.AssemblyReference.cache
+C:\Users\Astridc\source\repos\CAJERO\CAJERO\obj\Debug\CAJERO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Astridc\source\repos\CAJERO\CAJERO\obj\Debug\CAJERO.csproj.CoreCompileInputs.cache
+C:\Users\Astridc\source\repos\CAJERO\CAJERO\obj\Debug\CAJERO.exe
+C:\Users\Astridc\source\repos\CAJERO\CAJERO\obj\Debug\CAJERO.pdb
+C:\Users\PCCasa\Source\Repos\Cajero-Automatico\CAJERO\bin\Debug\CAJERO.exe.config
+C:\Users\PCCasa\Source\Repos\Cajero-Automatico\CAJERO\bin\Debug\CAJERO.exe
+C:\Users\PCCasa\Source\Repos\Cajero-Automatico\CAJERO\bin\Debug\CAJERO.pdb
+C:\Users\PCCasa\Source\Repos\Cajero-Automatico\CAJERO\obj\Debug\CAJERO.csproj.AssemblyReference.cache
+C:\Users\PCCasa\Source\Repos\Cajero-Automatico\CAJERO\obj\Debug\CAJERO.csproj.CoreCompileInputs.cache
+C:\Users\PCCasa\Source\Repos\Cajero-Automatico\CAJERO\obj\Debug\CAJERO.exe
+C:\Users\PCCasa\Source\Repos\Cajero-Automatico\CAJERO\obj\Debug\CAJERO.pdb

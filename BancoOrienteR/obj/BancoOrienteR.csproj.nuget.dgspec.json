@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PCCasa\\source\\repos\\BancoOrienteR\\BancoOrienteR\\BancoOrienteR.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PCCasa\\source\\repos\\BancoOrienteR\\BancoOrienteR\\BancoOrienteR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PCCasa\\source\\repos\\BancoOrienteR\\BancoOrienteR\\BancoOrienteR.csproj",
+        "projectName": "BancoOrienteR",
+        "projectPath": "C:\\Users\\PCCasa\\source\\repos\\BancoOrienteR\\BancoOrienteR\\BancoOrienteR.csproj",
+        "packagesPath": "C:\\Users\\PCCasa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PCCasa\\source\\repos\\BancoOrienteR\\BancoOrienteR\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PCCasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BouncyCastle.Cryptography": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.30.0, )"
+            },
+            "K4os.Compression.LZ4": {
+              "target": "Package",
+              "version": "[1.3.8, )"
+            },
+            "K4os.Compression.LZ4.Streams": {
+              "target": "Package",
+              "version": "[1.3.8, )"
+            },
+            "K4os.Hash.xxHash": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "System.IO.Pipelines": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "ZstdSharp.Port": {
+              "target": "Package",
+              "version": "[0.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

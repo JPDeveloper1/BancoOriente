@@ -1,0 +1,2 @@
+C:\Users\PCCasa\source\repos\BancoOrienteR\BancoOrienteR\obj\Debug\CAJERO.exe
+C:\Users\PCCasa\source\repos\BancoOrienteR\BancoOrienteR\obj\Debug\CAJERO.pdb

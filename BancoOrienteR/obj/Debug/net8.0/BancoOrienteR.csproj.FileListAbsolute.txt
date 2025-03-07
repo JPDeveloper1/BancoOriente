@@ -1,0 +1,5 @@
+C:\Users\PCCasa\source\repos\BancoOrienteR\BancoOrienteR\obj\Debug\net8.0\BancoOrienteR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCCasa\source\repos\BancoOrienteR\BancoOrienteR\obj\Debug\net8.0\BancoOrienteR.AssemblyInfoInputs.cache
+C:\Users\PCCasa\source\repos\BancoOrienteR\BancoOrienteR\obj\Debug\net8.0\BancoOrienteR.AssemblyInfo.cs
+C:\Users\PCCasa\source\repos\BancoOrienteR\BancoOrienteR\obj\Debug\net8.0\BancoOrienteR.csproj.CoreCompileInputs.cache
+C:\Users\PCCasa\source\repos\BancoOrienteR\BancoOrienteR\obj\Debug\net8.0\BancoOrienteR.csproj.AssemblyReference.cache
